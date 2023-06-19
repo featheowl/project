@@ -6,4 +6,5 @@ def str_reverse(s):
         return False
 first = str_reverse(' лепсспел')
 second = str_reverse('hello world')
-print(x)
+print(first)
+print(second)
