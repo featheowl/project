@@ -1,0 +1,38 @@
+h1 {
+	background: red;
+}
+.par-1 {
+	background: blue;
+	font-size: 32pt;
+	
+}
+.par-2 {
+	border: 10px solid yellow;
+	border-radius: 5px;
+	font-size: 24pt;
+	margin-bottom: 200px;
+	padding-bottom:40px;
+	padding-left: 40px;
+}
+.par-3 {
+	
+	font-weight: bold;
+	font-size: 22px;
+	font-family: Courier New;
+
+}
+
+.par-3 {
+	
+	margin-left: 20px;
+
+
+}
+.par-4 {
+	font-style: italic;
+	font-size: 22px;
+	text-align: center;
+	box-shadow: 3px 3px green;
+
+
+}
